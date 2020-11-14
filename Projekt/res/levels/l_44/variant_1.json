@@ -1,0 +1,2262 @@
+{
+  "blocks": [
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 34.0,
+      "height": 28.0,
+      "x": 753.395,
+      "y": 377.90155,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": true,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        255,
+        255
+      ],
+      "width": 38.0,
+      "height": 29.0,
+      "x": 459.0,
+      "y": 457.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": true
+    },
+    {
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "width": 30.0,
+      "height": 26.0,
+      "x": 55.0,
+      "y": 519.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": true,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 130.0,
+      "height": 25.0,
+      "x": 260.0,
+      "y": 219.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "width": 27.0,
+      "height": 23.0,
+      "x": 418.0,
+      "y": 127.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": true,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 26.0,
+      "height": 33.0,
+      "x": 368.0,
+      "y": 314.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": true,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 35.0,
+      "height": 39.0,
+      "x": 657.0,
+      "y": 162.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": true,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 198.0,
+      "height": 27.0,
+      "x": 330.0,
+      "y": 516.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 244.0,
+      "height": 32.0,
+      "x": 756.0,
+      "y": 329.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 256.0,
+      "height": 29.0,
+      "x": 617.0,
+      "y": 495.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 169.0,
+      "height": 22.0,
+      "x": 556.0,
+      "y": 132.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 35.0,
+      "height": 26.0,
+      "x": 294.0,
+      "y": 265.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": true,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 177.0,
+      "height": 28.0,
+      "x": 273.0,
+      "y": 383.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "width": 28.0,
+      "height": 34.0,
+      "x": 1031.0,
+      "y": 391.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": true,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 250.0,
+      "height": 33.0,
+      "x": 165.0,
+      "y": 174.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 38.0,
+      "height": 178.0,
+      "x": 716.0,
+      "y": 176.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 228.0,
+      "height": 29.0,
+      "x": 185.0,
+      "y": 79.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 37.0,
+      "height": 27.0,
+      "x": 622.0,
+      "y": 555.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 205.0,
+      "height": 31.0,
+      "x": 271.0,
+      "y": 621.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 34.0,
+      "height": 278.0,
+      "x": 923.0,
+      "y": 414.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 50.0,
+      "height": 20.0,
+      "x": 779.0,
+      "y": 150.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 151.0,
+      "height": 33.0,
+      "x": 428.0,
+      "y": 217.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 52.0,
+      "height": 39.0,
+      "x": 106.0,
+      "y": 278.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "width": 30.0,
+      "height": 23.0,
+      "x": 1029.0,
+      "y": 540.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": true,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 24.0,
+      "height": 37.0,
+      "x": 76.341064,
+      "y": 128.04958,
+      "scale": -1.0,
+      "isRandomMoving": true,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 209.0,
+      "height": 35.0,
+      "x": 594.0,
+      "y": 417.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.0,
+      "height": 7.0,
+      "x": 65.404274,
+      "y": 212.51901,
+      "scale": 8.919975,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 101.0,
+      "height": 39.0,
+      "x": 918.0,
+      "y": 105.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "width": 27.0,
+      "height": 29.0,
+      "x": 61.0,
+      "y": 436.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "width": 29.0,
+      "height": 26.0,
+      "x": 381.0,
+      "y": 286.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 20.0,
+      "height": 37.0,
+      "x": 964.0,
+      "y": 559.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": true,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 36.0,
+      "height": 36.0,
+      "x": 871.0,
+      "y": 92.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": true,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 34.0,
+      "height": 21.0,
+      "x": 788.0,
+      "y": 526.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "width": 21.0,
+      "height": 22.0,
+      "x": 483.0,
+      "y": 424.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": true,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "width": 24.0,
+      "height": 24.0,
+      "x": 510.0,
+      "y": 421.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": true,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 149.0,
+      "height": 23.0,
+      "x": 353.0,
+      "y": 583.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 21.0,
+      "height": 38.0,
+      "x": 510.0,
+      "y": 582.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 38.0,
+      "height": 33.0,
+      "x": 728.0,
+      "y": 77.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": true,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 22.0,
+      "height": 32.0,
+      "x": 80.584236,
+      "y": 300.5833,
+      "scale": -1.0,
+      "isRandomMoving": true,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "width": 22.0,
+      "height": 39.0,
+      "x": 652.0,
+      "y": 210.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "width": 39.0,
+      "height": 27.0,
+      "x": 532.0,
+      "y": 494.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": true,
+      "isWall": false,
+      "isExploding": true,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 265.0,
+      "height": 20.0,
+      "x": 789.0,
+      "y": 251.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 46.0,
+      "height": 25.0,
+      "x": 1000.0,
+      "y": 319.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 28.0,
+      "height": 31.0,
+      "x": 922.0,
+      "y": 242.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": true,
+      "isWall": false,
+      "isExploding": true,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 163.0,
+      "height": 33.0,
+      "x": 417.0,
+      "y": 58.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 226.0,
+      "height": 36.0,
+      "x": 157.0,
+      "y": 112.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "width": 39.0,
+      "height": 24.0,
+      "x": 86.0,
+      "y": 553.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": true,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 24.0,
+      "height": 75.0,
+      "x": 426.0,
+      "y": 469.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 127.0,
+      "height": 28.0,
+      "x": 463.0,
+      "y": 339.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 146.0,
+      "height": 29.0,
+      "x": 568.0,
+      "y": 463.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "width": 30.0,
+      "height": 30.0,
+      "x": 588.0,
+      "y": 176.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 195.0,
+      "height": 21.0,
+      "x": 429.0,
+      "y": 311.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 78.0,
+      "height": 25.0,
+      "x": 424.0,
+      "y": 184.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 7.0,
+      "height": 9.5,
+      "x": 211.30959,
+      "y": 575.80743,
+      "scale": 9.499989,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 20.0,
+      "height": 33.0,
+      "x": 337.0,
+      "y": 293.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 29.0,
+      "height": 23.0,
+      "x": 598.0,
+      "y": 268.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": true,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 81.0,
+      "height": 33.0,
+      "x": 371.0,
+      "y": 582.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 23.0,
+      "height": 31.0,
+      "x": 439.0,
+      "y": 183.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": true,
+      "isWall": false,
+      "isExploding": true,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 234.0,
+      "height": 39.0,
+      "x": 794.0,
+      "y": 612.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 33.0,
+      "height": 22.0,
+      "x": 218.0,
+      "y": 415.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 39.0,
+      "height": 22.0,
+      "x": 845.0,
+      "y": 249.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 31.0,
+      "height": 34.0,
+      "x": 361.0,
+      "y": 448.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 21.0,
+      "height": 37.0,
+      "x": 585.0,
+      "y": 460.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 24.0,
+      "height": 38.0,
+      "x": 642.0,
+      "y": 66.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 35.0,
+      "height": 23.0,
+      "x": 598.0,
+      "y": 593.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "width": 30.0,
+      "height": 26.0,
+      "x": 829.0,
+      "y": 443.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 123.0,
+      "height": 22.0,
+      "x": 734.0,
+      "y": 552.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 58.0,
+      "height": 24.0,
+      "x": 560.0,
+      "y": 393.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 23.0,
+      "height": 30.0,
+      "x": 120.0,
+      "y": 437.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 36.0,
+      "height": 22.0,
+      "x": 198.69734,
+      "y": 233.70782,
+      "scale": -1.0,
+      "isRandomMoving": true,
+      "isColorChanger": true,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 31.0,
+      "height": 32.0,
+      "x": 647.0,
+      "y": 378.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 27.0,
+      "height": 35.0,
+      "x": 315.0,
+      "y": 174.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "width": 30.0,
+      "height": 30.0,
+      "x": 203.0,
+      "y": 343.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": true,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 192.0,
+      "height": 22.0,
+      "x": 757.0,
+      "y": 187.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 213.0,
+      "height": 21.0,
+      "x": 863.0,
+      "y": 393.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 35.0,
+      "height": 281.0,
+      "x": 147.0,
+      "y": 452.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 23.0,
+      "height": 23.0,
+      "x": 308.85992,
+      "y": 460.16992,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": true,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 20.0,
+      "height": 28.0,
+      "x": 220.23924,
+      "y": 569.32837,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": true,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "width": 36.0,
+      "height": 21.0,
+      "x": 518.0,
+      "y": 626.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 29.0,
+      "height": 24.0,
+      "x": 23.015585,
+      "y": 68.48876,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": true,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 20.0,
+      "height": 39.0,
+      "x": 548.0,
+      "y": 336.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 101.0,
+      "height": 30.0,
+      "x": 693.0,
+      "y": 619.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "width": 26.0,
+      "height": 24.0,
+      "x": 545.0,
+      "y": 537.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": true,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 1087.0,
+      "height": 20.0,
+      "x": 0.0,
+      "y": 0.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 20.0,
+      "height": 679.0,
+      "x": 0.0,
+      "y": 0.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 20.0,
+      "height": 679.0,
+      "x": 1067.0,
+      "y": 0.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        50,
+        50,
+        50
+      ],
+      "width": 1087.0,
+      "height": 20.0,
+      "x": 0.0,
+      "y": 659.0,
+      "scale": -1.0,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": true,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.0,
+      "height": 7.0,
+      "x": 221.13252,
+      "y": 150.3522,
+      "scale": 7.8799515,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.0,
+      "height": 7.0,
+      "x": 99.58255,
+      "y": 190.38486,
+      "scale": 8.299961,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.0,
+      "height": 7.0,
+      "x": 265.57623,
+      "y": 171.7972,
+      "scale": 5.8599052,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.0,
+      "height": 7.0,
+      "x": 253.98479,
+      "y": 197.56447,
+      "scale": 5.8599052,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.0,
+      "height": 7.0,
+      "x": 147.22362,
+      "y": 165.76543,
+      "scale": 7.899952,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.0,
+      "height": 7.0,
+      "x": 249.8288,
+      "y": 294.44644,
+      "scale": 7.9699535,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.0,
+      "height": 7.0,
+      "x": 249.73276,
+      "y": 314.53918,
+      "scale": 7.979954,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.0,
+      "height": 7.0,
+      "x": 133.73259,
+      "y": 254.70795,
+      "scale": 7.9299526,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.0,
+      "height": 7.0,
+      "x": 180.03687,
+      "y": 223.81941,
+      "scale": 8.309961,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.0,
+      "height": 7.0,
+      "x": 143.54674,
+      "y": 200.90007,
+      "scale": 8.299961,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.0,
+      "height": 7.0,
+      "x": 47.10392,
+      "y": 341.54718,
+      "scale": 8.309961,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.5,
+      "height": 6.0,
+      "x": 318.85117,
+      "y": 480.16357,
+      "scale": 6.549921,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.5,
+      "height": 6.0,
+      "x": 258.10858,
+      "y": 560.68866,
+      "scale": 0.6700003,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 8.5,
+      "height": 6.0,
+      "x": 250.56905,
+      "y": 515.58704,
+      "scale": 9.029978,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.5,
+      "height": 6.0,
+      "x": 315.58945,
+      "y": 476.89844,
+      "scale": 6.9999313,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.5,
+      "height": 6.0,
+      "x": 318.8086,
+      "y": 463.1255,
+      "scale": 7.019932,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.5,
+      "height": 6.0,
+      "x": 312.42188,
+      "y": 466.0178,
+      "scale": 7.029932,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.0,
+      "height": 7.0,
+      "x": 24.66435,
+      "y": 248.18318,
+      "scale": 8.919975,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.0,
+      "height": 7.0,
+      "x": 125.887695,
+      "y": 269.09647,
+      "scale": 8.939976,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.0,
+      "height": 7.0,
+      "x": 65.553246,
+      "y": 269.42252,
+      "scale": 8.9299755,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 8.5,
+      "height": 6.0,
+      "x": 287.7566,
+      "y": 487.4621,
+      "scale": 9.11998,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 8.5,
+      "height": 6.0,
+      "x": 225.13686,
+      "y": 568.5429,
+      "scale": 8.119957,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 8.5,
+      "height": 6.0,
+      "x": 223.58217,
+      "y": 579.26447,
+      "scale": 8.25996,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 14.0,
+      "height": 19.0,
+      "x": 268.6269,
+      "y": 572.37317,
+      "scale": 0.6700003,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": true,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 7.0,
+      "height": 9.5,
+      "x": 213.14055,
+      "y": 608.36346,
+      "scale": 9.719994,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 7.0,
+      "height": 9.5,
+      "x": 192.43356,
+      "y": 616.7835,
+      "scale": 8.569967,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 7.0,
+      "height": 9.5,
+      "x": 214.06676,
+      "y": 640.47174,
+      "scale": 9.459988,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 7.0,
+      "height": 9.5,
+      "x": 209.56921,
+      "y": 627.2898,
+      "scale": 8.569967,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 7.0,
+      "height": 9.5,
+      "x": 195.99219,
+      "y": 624.6992,
+      "scale": 8.559967,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 7.0,
+      "height": 9.5,
+      "x": 208.76242,
+      "y": 622.58057,
+      "scale": 8.569967,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 7.0,
+      "height": 9.5,
+      "x": 224.802,
+      "y": 645.19714,
+      "scale": 9.469988,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 7.0,
+      "height": 9.5,
+      "x": 197.02325,
+      "y": 647.45276,
+      "scale": 9.459988,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.5,
+      "height": 6.0,
+      "x": 305.28015,
+      "y": 530.5171,
+      "scale": 9.659992,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        0,
+        255,
+        0
+      ],
+      "width": 8.5,
+      "height": 6.0,
+      "x": 305.28015,
+      "y": 602.8602,
+      "scale": 9.659992,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 8.5,
+      "height": 6.0,
+      "x": 254.50212,
+      "y": 603.56537,
+      "scale": 9.649992,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 7.0,
+      "height": 9.5,
+      "x": 276.52686,
+      "y": 583.4125,
+      "scale": 9.739994,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 7.0,
+      "height": 9.5,
+      "x": 260.18234,
+      "y": 650.9467,
+      "scale": 9.689993,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "width": 7.0,
+      "height": 9.5,
+      "x": 243.16725,
+      "y": 649.323,
+      "scale": 9.699993,
+      "isRandomMoving": false,
+      "isColorChanger": false,
+      "isWall": false,
+      "isExploding": false,
+      "isPlayer": false,
+      "isGoal": false
+    }
+  ],
+  "gravity": [
+    0.0,
+    0.0
+  ],
+  "size": [
+    1087,
+    679
+  ]
+}
